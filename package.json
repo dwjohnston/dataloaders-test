@@ -20,5 +20,8 @@
     "ts-node": "^10.9.2",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dataloader": "^2.2.2"
   }
 }
